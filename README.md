@@ -210,6 +210,37 @@ The following are credits to various people and technologies that have directly 
 | [YouTube](https://www.youtube.com/watch?v=WZNG8UomjSI&t=1783s) | Main page | a source to get an idea of how to lay out the page |
 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_short_place_names) | Javascript | helped in determining whether name validation is needed or not |
 | [United Kingdom Flag](https://es.wikipedia.org/wiki/Reino_Unido#/media/Archivo:Flag_of_the_United_Kingdom_(1-2).svg) | Flag
+| [France Flag](https://es.wikipedia.org/wiki/Francia#/media/Archivo:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974,_2020%E2%80%93present).svg) | Flag
+| [Germany Flag](https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg) | Flag
+| [Netherlands Flag](https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg) | Flag
+| [Sweden Flag](https://en.wikipedia.org/wiki/Sweden#/media/File:Flag_of_Sweden.svg) | Flag
+| [Denmark Flag](https://en.wikipedia.org/wiki/Denmark#/media/File:Flag_of_Denmark.svg) | Flag
+| [Italy Flag](https://en.wikipedia.org/wiki/Italy#/media/File:Flag_of_Italy.svg) | Flag
+| [Spain Flag](https://en.wikipedia.org/wiki/Spain#/media/File:Bandera_de_Espa%C3%B1a.svg) | Flag
+| [Portugal Flag](https://en.wikipedia.org/wiki/Portugal#/media/File:Flag_of_Portugal.svg) | Flag
+| [Belgium Flag](https://en.wikipedia.org/wiki/Belgium#/media/File:Flag_of_Belgium.svg) | Flag
+| [United States Flag](https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg) | Flag
+| [China Flag](https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg) | Flag
+| [South Africa Flag](https://en.wikipedia.org/wiki/South_Africa#/media/File:Flag_of_South_Africa.svg) | Flag
+| [India Flag](https://en.wikipedia.org/wiki/India#/media/File:Flag_of_India.svg) | Flag
+| [Russia Flag](https://en.wikipedia.org/wiki/Russia#/media/File:Flag_of_Russia.svg) | Flag
+| [Republic of Ireland Flag](https://en.wikipedia.org/wiki/Republic_of_Ireland#/media/File:Flag_of_Ireland.svg) | Flag
+| [Brazil Flag](https://en.wikipedia.org/wiki/Brazil#/media/File:Flag_of_Brazil.svg) | Flag
+| [Canada Flag](https://en.wikipedia.org/wiki/Canada#/media/File:Flag_of_Canada_(Pantone).svg) | Flag
+| [Japan Flag](https://en.wikipedia.org/wiki/Japan#/media/File:Flag_of_Japan.svg) | Flag
+| [Mexico Flag](https://en.wikipedia.org/wiki/Mexico#/media/File:Flag_of_Mexico.svg) | Flag
+| [Australia Flag](https://en.wikipedia.org/wiki/Australia#/media/File:Flag_of_Australia_(converted).svg) | Flag
+
+
+
+
+
+
+
+
+
+
+
 
 ### Media
 

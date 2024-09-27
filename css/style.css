@@ -1,7 +1,9 @@
 
 /* At the beginning of your stylesheet, include the global styles that would apply to all screens. Any layout specific styles here would apply to the smallest sized screens. Your media queries defined later in the document, will target increasingly larger sized screens. */
 
-body { font:italic bold 1rem/1.4 Roboto; color:cornflowerblue; background-color: green; }
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+
+body { font:italic bold 1rem/1.4 Lato; color:cornflowerblue; background-color: black; }
 
 h1 {
     font-size: 60px;
@@ -35,9 +37,6 @@ h1 {
   place-content: center;
 }
 
-btn-primary {
-    background-color: white;
-}
 
 
 
