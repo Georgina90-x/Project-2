@@ -1,0 +1,58 @@
+
+/* At the beginning of your stylesheet, include the global styles that would apply to all screens. Any layout specific styles here would apply to the smallest sized screens. Your media queries defined later in the document, will target increasingly larger sized screens. */
+
+body { font:italic bold 1rem/1.4 Roboto; color:cornflowerblue; background-color: green; }
+
+#name-that-flag {
+    color: yellow;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 25px;
+    
+}
+
+#game-area {
+    text-align: center;
+    
+}
+
+#flag img {
+    height: 100px;
+    width: 150px;
+    padding: 15px;
+}
+
+#answers {
+    padding: 15px;
+    display: grid;
+  place-content: center;
+}
+
+
+@media screen and (min-width: 600px) {
+  /* All screens GREATER THAN OR EQUAL TO 600px */
+  body { color:#000; }
+}
+#flag img {
+    height: 200px;
+    width: 350px;
+
+}
+
+
+@media (min-width: 800px) {
+    /* All screens GREATER THAN OR EQUAL TO 800px */
+    body { font-weight:normal; }
+}
+
+#flag img {
+    height: 400px;
+    width: 550px;
+}
+
+
+
+@media (max-width: 1000px) {
+    /* All screens GREATER THAN OR EQUAL TO 1000px */
+    body { font-style:normal; }
+}

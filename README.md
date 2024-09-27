@@ -209,6 +209,7 @@ The following are credits to various people and technologies that have directly 
 | [W3Schools](https://www.w3schools.com/howto/howto_css_switch.asp) | Main page | interactive toggle switch |
 | [YouTube](https://www.youtube.com/watch?v=WZNG8UomjSI&t=1783s) | Main page | a source to get an idea of how to lay out the page |
 | [Wikipedia](https://en.wikipedia.org/wiki/List_of_short_place_names) | Javascript | helped in determining whether name validation is needed or not |
+| [United Kingdom Flag](https://es.wikipedia.org/wiki/Reino_Unido#/media/Archivo:Flag_of_the_United_Kingdom_(1-2).svg) | Flag
 
 ### Media
 
