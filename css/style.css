@@ -3,20 +3,31 @@
 
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
-body { font:italic bold 1rem/1.4 Lato; color:cornflowerblue; background-color: black; }
+body { font:bold 1rem/1.4 Lato; color: #171212; background-color: white; }
 
-h1 {
+#name-that-flag h1 {
     font-size: 60px;
+    font: bold;
     text-align: center;
     margin: 5px;
+
 }
+
 #name-that-flag {
-    color: yellow;
+    color: #171212;
     font-size: 25px;
     text-align: center;
     padding-top: 20px;
     padding-left: 25px;
+    background-color: #CDCDCD;
+    margin: 0;
     
+}
+
+#subtitle {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
 }
 
 
@@ -28,7 +39,7 @@ h1 {
 #flag img {
     height: 100px;
     width: 150px;
-    padding: 15px;
+    padding: 20px;
 }
 
 #answers {
