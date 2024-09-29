@@ -137,7 +137,7 @@ I used [coolors.co](https://coolors.co/171212-8d99ae-ffffff-473198-090c9b) to ge
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
 - [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
-- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
+- [CSS Buttons](https://www.w3schools.com/css/css3_buttons.asp) used for creating styled buttons.
 - [JavaScript](https://www.javascript.com) used for user interaction on the site.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
@@ -154,11 +154,11 @@ For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
-- In the [GitHub repository](https://github.com/boderg/your-weather), navigate to the Settings tab.
+- In the [GitHub repository](https://github.com/Georgina90-x/Project-2), navigate to the Settings tab.
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://boderg.github.io/your-weather).
+The live link can be found [here]( https://georgina90-x.github.io/Project-2/).
 
 ### Local Deployment
 
@@ -168,30 +168,14 @@ This project can be cloned or forked in order to make a local copy on your own s
 
 You can clone the repository by following these steps:
 
-1. Go to the [GitHub repository](https://github.com/boderg/your-weather).
+1. Go to the [GitHub repository](https://github.com/Georgina90-x/Project-2).
 2. Locate the Code button above the list of files and click it.
 3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard.
 4. Open Git Bash or Terminal.
 5. Change the current working directory to the one where you want the cloned directory.
 6. In your IDE Terminal, type the following command to clone my repository:
-    - `git clone https://github.com/boderg/your-weather.git`
+    - `git clone https://github.com/Georgina90-x/Project-2`
 7. Press Enter to create your local clone.
-
-Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/boderg/your-weather).
-
-Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
-A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
-
-#### Forking
-
-By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
-You can fork this repository by using the following steps:
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/boderg/your-weather).
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. Once clicked, you should now have a copy of the original repository in your own GitHub account.
 
 ### Local vs Deployment
 
